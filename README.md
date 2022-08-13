@@ -42,8 +42,4 @@ A text-based adventure game.
   - Weapon: Pistol, Sword, Rifle
   - Armor: Light, Medium, Heavy
 
-A snippet of the game output:
-
-![image](https://user-images.githubusercontent.com/40757395/166145734-9be34b5a-6d1d-4882-8375-6b0374bb2c95.png)
-
  
